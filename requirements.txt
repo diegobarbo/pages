@@ -1,6 +1,16 @@
 asgiref==3.5.2
+certifi==2022.9.24
+cffi==1.15.1
+cryptography==38.0.1
 Django==4.1.1
 gunicorn==20.1.0
+idna==3.4
+psutil==5.9.2
 psycopg2==2.9.3
+pycparser==2.21
+pyOpenSSL==22.1.0
 python-decouple==3.6
 sqlparse==0.4.3
+urllib3==1.26.12
+urllib3-secure-extra==0.1.0
+wrapt==1.14.1
